@@ -14,6 +14,7 @@ namespace CSharp_Collections
         {
             Console.WriteLine("THis is new");
             Console.WriteLine("hi");
+            Console.WriteLine("heyyy from yash ");
 
             Console.Write("Enter a number: ");
             int input = Convert.ToInt32(Console.ReadLine());
